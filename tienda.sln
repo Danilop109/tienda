@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTienda", "ApiTienda\ApiTienda.csproj", "{AD0A2B0D-38FA-410F-9261-1AF0D27CDAF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{18763AB6-0274-4690-AC3C-E211C7687DE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infraestruture", "Infraestruture\Infraestruture.csproj", "{4B06DB91-003A-4CF4-9F69-9A686A8610F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD0A2B0D-38FA-410F-9261-1AF0D27CDAF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD0A2B0D-38FA-410F-9261-1AF0D27CDAF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD0A2B0D-38FA-410F-9261-1AF0D27CDAF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD0A2B0D-38FA-410F-9261-1AF0D27CDAF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18763AB6-0274-4690-AC3C-E211C7687DE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18763AB6-0274-4690-AC3C-E211C7687DE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18763AB6-0274-4690-AC3C-E211C7687DE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18763AB6-0274-4690-AC3C-E211C7687DE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B06DB91-003A-4CF4-9F69-9A686A8610F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B06DB91-003A-4CF4-9F69-9A686A8610F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B06DB91-003A-4CF4-9F69-9A686A8610F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B06DB91-003A-4CF4-9F69-9A686A8610F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
